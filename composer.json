@@ -1,0 +1,11 @@
+{
+    "name": "easyconn/yii2-emoji",
+    "description": "emoji package for PHP",
+    "type": "library",
+    "require": {}
+     "autoload": {
+        "psr-4": {
+            "easyconn\\emojione\\": "src"
+        }
+    }
+}
